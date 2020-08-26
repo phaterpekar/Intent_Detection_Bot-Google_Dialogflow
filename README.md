@@ -1,7 +1,5 @@
 ### DS5500 Project 2 : Intent Detection Bot using Dialogflow
 ##### ***Link for Project Documentation : https://github.com/osnandhu/DS5500_Project_Intent_Detection_Bot_using_Dialogflow/blob/master/DS5500_Project_Documentation.pdf***
-##### ***Professor In-Charge: Andrew Therriault***
-##### ***Project Partners : Ankit Phaterpekar, Nanditha Sundararajan***
 
 #### INTRODUCTION ####
 Conversational bots have many applications throughout the industry today as businesses are looking to take advantage of deploying such services on messaging platforms, voice assistant devices like Google Home, Alexa or customer service bots with the goal of improving user interaction, reducing time or freeing up time taken to service simple tasks.
